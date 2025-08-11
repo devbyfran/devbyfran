@@ -12,9 +12,9 @@
 
 ### 🧠 Sobre mí
 
-Soy un desarrollador que ha recorrido un largo puente entre los sistemas legacy (COBOL, Informix, UNIX) y las tecnologías modernas de desarrollo backend y mobile. En proceso de finalizar el Ciclo Superior DAM, he realizado proyectos funcionales con:
+Soy un desarrollador que ha recorrido un largo puente entre los sistemas legacy (COBOL, BASIC, Informix, UNIX) y las tecnologías modernas de desarrollo backend y mobile. En proceso de finalizar el Ciclo Superior DAM, he realizado proyectos funcionales con:
 
-- **Spring Boot, APIs REST**
+- **Java, Spring Boot, APIs REST**
 - **Android (Java + XML)** (no lo conteis, pero me sigo formando para desarrollar tambien en Kotlink y Jetpack Compose)
 - **Firebase, Docker, PostgreSQL, MongoDB**
 - Y también: Windev, Unity 2D, MySQL...
